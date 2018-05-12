@@ -1,4 +1,8 @@
 _repo: The-Horse-s-Mouth-Showing-the-age-by-the-teeth_47162
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47162-h/images/cover.jpg
 creator:
   author:
     agent_name: Mayhew, Edward
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '41052'
     url: http://www.gutenberg.org/2009/agents/41052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47162#The-Horse-s-Mouth-Showing-the-age-by-the-teeth
 gutenberg_issued: '2014-10-20'
 gutenberg_type: Text
 identifiers:
